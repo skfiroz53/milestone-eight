@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "cover": "https://unsplash.com/photos/black-flat-screen-computer-monitor-SyvsTmuuZyM",
+        "title": "Top 10 ES6 Features You Must Know",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Mr. Raju",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 5,
+        "hashtags": [
+            "beginners",
+            "programming"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://unsplash.com/photos/person-facing-computer-desktop-pjAH2Ax4uWk",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Mr. Raju",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 10,
+        "hashtags": [
+            "beginners",
+            "programming"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://unsplash.com/photos/two-black-flat-screen-computer-monitors-LJ9KY8pIH3E",
+        "title": "Component lifecycle in React — Class component vs Functional component",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Mr. Raju",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 12,
+        "hashtags": [
+            "beginners",
+            "programming"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://unsplash.com/photos/laptop-computer-beside-monitor-with-keyboard-and-mouse-EJMTKCZ00I0",
+        "title": "Free images and resources collection for website",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Mr. Raju",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 15,
+        "hashtags": [
+            "beginners",
+            "programming"
+        ]
+    }
+]
