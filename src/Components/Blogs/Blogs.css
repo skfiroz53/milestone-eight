@@ -1,5 +1,23 @@
-.blogs-container{
+/* .blogs-container{
     display: grid;
     grid-template-columns: 2fr 2fr;
     gap: 20px;
+} */
+
+
+
+
+/* ===========================new project================== */
+/* .blogs-container{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    gap: 20px;
+} */
+
+
+  /* ===============pactice ========== */
+.blogs-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 320px;
 }

@@ -1,6 +1,6 @@
 import React from 'react';
-
-const Bookmarks = (props) => {
+import './Bookmarks.css';
+const Bookmarks = () => {
     
     
     return (

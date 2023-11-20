@@ -1,4 +1,4 @@
- .blog{
+ /* .blog{
    
     padding-left: 320px;
  }
@@ -23,4 +23,38 @@
     display: flex;
     align-items: center;
      gap: 5px;
- }
+ } */
+
+
+
+
+
+
+
+/* ====================================new project================== */
+/* .blog{
+   
+   padding-left: 320px;
+} */
+
+.author-container{
+   display: flex;
+   justify-content: space-between;
+}
+
+.author-info{
+   display: flex;
+   align-items: center;
+   gap: 20px;
+}
+
+.author-info img{
+     width: 60px;
+     height: 60px;
+}
+
+.reading{
+   display: flex;
+   align-items: center;
+    gap: 5px;
+}
